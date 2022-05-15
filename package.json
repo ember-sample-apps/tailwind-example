@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "A sample Ember app that uses Tailwind",
-  "repository": "",
+  "repository": "https://github.com/ember-sample-apps/tailwind-example",
   "license": "MIT",
   "author": "Melanie Sumner <melaniersumner@gmail.com>",
   "directories": {
