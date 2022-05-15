@@ -1,8 +1,6 @@
 # tailwind-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-
+This is an Ember app that has Tailwind CSS installed and configured for use.
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
